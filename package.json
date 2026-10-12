@@ -1,0 +1,12 @@
+{
+  "name": "ex5-compose-backend",
+  "version": "1.0.0",
+  "description": "Multi-service backend orchestrated with Docker Compose v2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
